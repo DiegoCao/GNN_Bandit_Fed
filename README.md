@@ -9,9 +9,14 @@ Links: https://archive.org/details/stackexchange Superuser dataset
 
 
 How to process dataset: 
+Use the build_vocab to build the vocabulary for yelp/superuser dataset
 
 
 ## Usage:
 ```python
 python main_fed.py --dataset yelp --model nlpmodel --epochs 400
 ```
+
+
+Reference: 
+Graphsage link: https://github.com/williamleif/GraphSAGE
