@@ -1,4 +1,7 @@
-# GNN_Bandit_Fed
+# GNN_Bandit_Fed 
+
+A federated learning simulation framework to train language model on social media data.
+
 
 ## Usage:
 ```python
